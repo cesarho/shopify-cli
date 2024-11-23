@@ -1,5 +1,11 @@
 # @shopify/cli-kit
 
+## 3.71.0
+
+### Patch Changes
+
+- 5fd19d2: Improve display of links for terminals that don't support hyperlinks
+
 ## 3.70.0
 
 ### Minor Changes

@@ -1,5 +1,18 @@
 # @shopify/theme
 
+## 3.71.0
+
+### Minor Changes
+
+- 057e2c6: Add shortcut keys to theme dev commands
+
+### Patch Changes
+
+- 1e267a2: Update `shopify theme dev` to no longer display redundant URLs
+- 9548a34: Fix password validation to handle capitalized store names on `shopify theme dev`
+- Updated dependencies [5fd19d2]
+  - @shopify/cli-kit@3.71.0
+
 ## 3.70.0
 
 ### Minor Changes
